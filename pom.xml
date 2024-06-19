@@ -100,14 +100,14 @@
 	      <url>http://18.235.249.6:8081/repository/HDFC_RELEASES/</url>
 	    </repository>
 		
-	    <!-- 
+	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://18.235.249.6:8081/repository/HDFC_SNAPSHOT/</url>
 	    </snapshotRepository>
 
-	-->
+	
 	    
 	</distributionManagement>
 	
